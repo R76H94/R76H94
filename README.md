@@ -25,7 +25,8 @@
 
 ## 🛠️Skills
 - TOEIC Score：735
-- Programming Languages：Python，C，C++，HTML，CSS，Processing, Unity
+- Programming Languages：Python，C，C++，HTML，CSS，Processing, R
+- Tools：Windows，Linux，VS Code，Unity，Notion，Github，Docker，Git，LaTeX
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,c,cpp,html,css,docker,git,github,latex,linux,notion,processing,pytorch,r,sklearn,ubuntu,unity,vscode,windows" />
 <br>
 
@@ -50,10 +51,11 @@
 - [NLP若手の会（YANS）第18回シンポジウム（2023）]
 
   - [YANS2023]
+<br>
 
 ## 📨Contact
 - Email：s2420791@u.tsukuba.ac.jp
-- Notion：https://functional-burglar-568.notion.site/Ryo-Hasegawa-4cbd1f3338864868a844f2891d415629?pvs=4
+- Notion：[Ryo Hasegawa's Notion](https://functional-burglar-568.notion.site/Ryo-Hasegawa-4cbd1f3338864868a844f2891d415629?pvs=4)
 <br>
 
 <!-- 4. GitHub usernameを変更, 2箇所 -->
