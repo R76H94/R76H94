@@ -53,6 +53,7 @@
 
 ## 📨Contact
 - Email：s2420791@u.tsukuba.ac.jp
+- Notion：https://functional-burglar-568.notion.site/Ryo-Hasegawa-4cbd1f3338864868a844f2891d415629?pvs=4
 <br>
 
 <!-- 4. GitHub usernameを変更, 2箇所 -->
