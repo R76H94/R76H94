@@ -1,9 +1,6 @@
-## Hi there 👋
-
 <!-- 1. GitHub usernameを変更 -->
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=username" />
-</div>
+![](https://komarev.com/ghpvc/?username=R76H94&blue)
+
 
 
 <!-- 2. プロフィールや連絡先を変更 -->
