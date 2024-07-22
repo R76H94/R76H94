@@ -58,13 +58,7 @@
 - Notion：[Ryo Hasegawa's Notion](https://functional-burglar-568.notion.site/Ryo-Hasegawa-4cbd1f3338864868a844f2891d415629?pvs=4)
 <br>
 
-<!-- 4. GitHub usernameを変更, 2箇所 -->
-<!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
-## 🏃‍♀️ Activities
-<div align="left"> 
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=R76H94&theme=vue-dark&layout=compact" />
-  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R76H94&theme=vue-dark&layout=compact" />
-</div>
+
 
 
 
