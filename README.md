@@ -80,6 +80,5 @@ LLMが自分の分身として振る舞うようなシステム（CloneTalk）�
 [言語処理学会第30回年次大会(NLP2024)]: https://www.anlp.jp/nlp2024/
 [NLP2024 論文PDF]: https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/D9-5.pdf
 [IDRユーザフォーラム 2023]: https://www.nii.ac.jp/dsc/idr/userforum/2023.html
-[IDR2023 論文PDF]: https://www.nii.ac.jp/dsc/idr/userforum/poster/IDR-UF2023_P12.pdf
-[NLP若手の会（YANS）第18回シンポジウム（2023）]: https://yans.anlp.jp/entry/yans2023
-[YANS2023]: https://yans.anlp.jp/entry/yans2023program
+[IDR2023 ポスターPDF]: https://www.nii.ac.jp/dsc/idr/userforum/poster/IDR-UF2023_P12.pdf
+[NLP若手の会（YANS）第18回シンポジウム（2023）]: https://yans.anlp.jp/entry/yans2023program
