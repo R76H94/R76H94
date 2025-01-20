@@ -25,11 +25,11 @@
 
 ## ⚙️Portfolio
 
-LLMが自分の分身として振る舞うようなシステム（CloneTalk）を作成しました。私に聞きたいことを質問してみてください。
+Run & Escape: The Infinite Maze Game
 
-例）今何歳ですか？プログラミング経験はありますか？など
+プレイヤーを操作して、敵から逃げるスリリングな体験を提供するゲーム
 
-[CloneTalk](https://clonetalk.streamlit.app/)
+[Run & Escape: The Infinite Maze Game](https://github.com/R76H94/SIM)
 
 ## 🛠️Skills
 - TOEIC Score：735
